@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://cant.rest/">
-        <img src="https://count.getloli.com/@Hades?theme=original-new&padding=7&offset=0&scale=1&align=top&pixelated=0&darkmode=auto" 
+        <img src="https://count.getloli.com/@Hades?theme=rule34&padding=7&offset=0&scale=1&align=top&pixelated=0&darkmode=auto" 
              alt="Hades Visitor Counter" />
     </a>
 </p>
