@@ -1,7 +1,8 @@
 <h1 align="center">Hades</h1>
 <a href="https://github.com/2bap"></a>
-
+<p align="center">
 [![Moe](https://count.ahwa.cc/SunDoge:moe-counter-cf?theme=rule34)](https://cant.rest/)
+</p>
 <br>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=py,html,css,js,git">
