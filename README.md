@@ -1,4 +1,4 @@
-<h1 align="center">Hades</h1>
+<h1 align="center">insomniphobe</h1>
 
 <p align="center">
     <a href="https://cant.rest/">
