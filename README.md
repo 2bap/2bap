@@ -1,4 +1,4 @@
-<h1 align="center">covet</h1>
+<h1 align="center">skidtard</h1>
 
 <p align="center">
         <img src="https://count.getloli.com/@Hades?theme=rule34&padding=7&offset=0&scale=1&align=top&pixelated=0&darkmode=auto" 
